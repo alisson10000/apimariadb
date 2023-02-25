@@ -1,0 +1,20 @@
+{
+  "name": "apimariadb",
+  "version": "1.0.0",
+  "description": "Obs.: pode se utilizar o postman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisson10000/apimariadb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alisson10000/apimariadb/issues"
+  },
+  "homepage": "https://github.com/alisson10000/apimariadb#readme"
+}

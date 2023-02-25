@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/alisson10000/apimariadb/issues"
   },
-  "homepage": "https://github.com/alisson10000/apimariadb#readme"
+  "homepage": "https://github.com/alisson10000/apimariadb#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mariadb": "^3.1.0",
+    "sequelize": "^6.29.0"
+  }
 }
